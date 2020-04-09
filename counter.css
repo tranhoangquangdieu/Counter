@@ -1,0 +1,23 @@
+#container
+{
+    height: 567px;
+    width: 1260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#giatri
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+.dau
+{
+    height: 50px;
+    width: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 30px;
+    background-color: gainsboro;
+    border: none;
+}
